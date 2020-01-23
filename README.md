@@ -1,8 +1,40 @@
 # University_Of_Kurdistan
 
-University of Kurdistan Initial App
+### This is not the official app.
+  Some Students of UKH asked for flutter tutorials in Kurdish, we at [DATACODE.APP](https://www.datacode.app) respect UKH and their great effort to develop Kurdistan, so we decided to create a simple app and create tutorial at the same time.
 
-## Getting Started
+
+## RoadMap
+* [x]  Initiate the code
+* [ ] Create a wireframe
+* [ ] Design UI/UX elements and standards
+* [ ] Tabbed Menu
+  * [ ] News/Events
+  * [ ] Centers
+  * [ ] Vacancies
+  
+  
+* [ ] Add a Drawer Menu for these pages and initiate classes
+  *  [ ] About
+  *  [ ] Study
+  *  [ ] Schools
+  *  [ ] Research
+  *  [ ] Contact Us
+  *  [ ] Alumni
+  *  [ ] Library
+  
+* [ ] Mock Data/If API not provided
+    * [ ] News/Events 
+    * [ ] Centers
+    * [ ] Vacancies 
+
+* [ ] Animations
+* [ ] Splash Screen and quick guide
+* [ ] Create HEC-Paris like login
+* [ ] Data-Encryption 
+* [ ] Research: Moodle API
+
+## Getting Started with flutter
 
 This project is a starting point for a Flutter application.
 
